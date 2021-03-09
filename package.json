@@ -1,0 +1,17 @@
+{
+  "name": "whetherappnodejs",
+  "version": "1.0.0",
+  "description": "weather forcating app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amisha",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
